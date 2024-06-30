@@ -1,0 +1,6 @@
+log_reg.fit(X,y)
+# X_new=np.linspace(0,3,1000).reshape(-1,1)
+# y_proba=log_reg.predict_proba(X_new)
+# plt.plot(X_new,y_proba[:,1],"g-",label="Iris_Virginica")
+# plt.plot(X_new,y_proba[:,0],"b--",label="NOT Iris_Virginica")
+# plt.show()
